@@ -14,7 +14,7 @@ A more detailed overview of these contracts can be found on the [community hub](
 <!-- TODO: Add link to final contract docs here when finished. -->
 
 ## Usage (npm)
-If your development stack is based on Node/npm:
+If your development stack is based on Node/npm
 
 ```shell
 npm install @eth-optimism/contracts
